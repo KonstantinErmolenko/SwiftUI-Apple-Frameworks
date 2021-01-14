@@ -12,6 +12,8 @@
 		A96A7AA425B0BE7E00970B17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A96A7AA325B0BE7E00970B17 /* Assets.xcassets */; };
 		A96A7AA725B0BE7E00970B17 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A96A7AA625B0BE7E00970B17 /* Preview Assets.xcassets */; };
 		A96A7AB025B0BEF300970B17 /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A7AAF25B0BEF300970B17 /* Framework.swift */; };
+		A96A7AB525B0CCB800970B17 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A7AB425B0CCB800970B17 /* FrameworkDetailView.swift */; };
+		A96A7AB825B0CFAB00970B17 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A7AB725B0CFAB00970B17 /* AFButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A96A7AA625B0BE7E00970B17 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A96A7AA825B0BE7E00970B17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A96A7AAF25B0BEF300970B17 /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
+		A96A7AB425B0CCB800970B17 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
+		A96A7AB725B0CFAB00970B17 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 			children = (
 				A96A7A9F25B0BE7D00970B17 /* SwiftUI_Apple_FrameworksApp.swift */,
 				A96A7AA125B0BE7D00970B17 /* FrameworkGridView.swift */,
+				A96A7AB425B0CCB800970B17 /* FrameworkDetailView.swift */,
+				A96A7AB725B0CFAB00970B17 /* AFButton.swift */,
 				A96A7AB225B0BFEF00970B17 /* Model */,
 				A96A7AA325B0BE7E00970B17 /* Assets.xcassets */,
 				A96A7AA825B0BE7E00970B17 /* Info.plist */,
@@ -149,8 +155,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A96A7AB525B0CCB800970B17 /* FrameworkDetailView.swift in Sources */,
 				A96A7AA225B0BE7D00970B17 /* FrameworkGridView.swift in Sources */,
 				A96A7AB025B0BEF300970B17 /* Framework.swift in Sources */,
+				A96A7AB825B0CFAB00970B17 /* AFButton.swift in Sources */,
 				A96A7AA025B0BE7D00970B17 /* SwiftUI_Apple_FrameworksApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
