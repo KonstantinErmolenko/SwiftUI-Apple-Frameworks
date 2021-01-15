@@ -15,6 +15,7 @@
 		A96A7AB525B0CCB800970B17 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A7AB425B0CCB800970B17 /* FrameworkDetailView.swift */; };
 		A96A7AB825B0CFAB00970B17 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A96A7AB725B0CFAB00970B17 /* AFButton.swift */; };
 		A98118D325B1787900AB24A0 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98118D225B1787900AB24A0 /* FrameworkGridViewModel.swift */; };
+		A98118DB25B182FA00AB24A0 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A98118DA25B182FA00AB24A0 /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A96A7AB425B0CCB800970B17 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		A96A7AB725B0CFAB00970B17 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		A98118D225B1787900AB24A0 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		A98118DA25B182FA00AB24A0 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				A96A7AA125B0BE7D00970B17 /* FrameworkGridView.swift */,
 				A98118D225B1787900AB24A0 /* FrameworkGridViewModel.swift */,
 				A96A7AB425B0CCB800970B17 /* FrameworkDetailView.swift */,
+				A98118DA25B182FA00AB24A0 /* SafariView.swift */,
 				A96A7AB725B0CFAB00970B17 /* AFButton.swift */,
 				A96A7AB225B0BFEF00970B17 /* Model */,
 				A96A7AA325B0BE7E00970B17 /* Assets.xcassets */,
@@ -164,6 +167,7 @@
 				A96A7AB825B0CFAB00970B17 /* AFButton.swift in Sources */,
 				A96A7AA025B0BE7D00970B17 /* SwiftUI_Apple_FrameworksApp.swift in Sources */,
 				A98118D325B1787900AB24A0 /* FrameworkGridViewModel.swift in Sources */,
+				A98118DB25B182FA00AB24A0 /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
